@@ -1,0 +1,63 @@
+[
+    {
+        "URLName": "Arsenal", 
+        "URL": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }, {
+        "URLName": "Aston Villa",
+        "URL": "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats"
+    }, {
+        "URLName": "Bournemouth",
+        "URL": "https://fbref.com/en/squads/4ba7cbea/Bournemouth-Stats"
+    }, {
+        "URLName": "Brentford",
+        "URL": "https://fbref.com/en/squads/cd051869/Brentford-Stats"
+    }, {
+        "URLName": "Brighton",
+        "URL": "https://fbref.com/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats"
+    }, {
+        "URLName": "Chelsea",
+        "URL": "https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats"
+    }, {
+        "URLName": "Crystal Palace",
+        "URL": "https://fbref.com/en/squads/47c64c55/Crystal-Palace-Stats"
+    }, {
+        "URLName": "Everton",
+        "URL": "https://fbref.com/en/squads/d3fd31cc/Everton-Stats"
+    }, {
+        "URLName": "Fulham",
+        "URL": "https://fbref.com/en/squads/fd962109/Fulham-Stats"
+    }, {
+        "URLName": "Ipswich Town",
+        "URL": "https://fbref.com/en/squads/b74092de/Ipswich-Town-Stats"
+    }, {
+        "URLName": "Leicester City",
+        "URL": "https://fbref.com/en/squads/a2d435b3/Leicester-City-Stats"
+    }, {
+        "URLName": "Liverpool",
+        "URL": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    }, {
+        "URLName": "Manchester City",
+        "URL": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }, {
+        "URLName": "Manchester United",
+        "URL": "https://fbref.com/en/squads/19538871/Manchester-United-Stats"
+    }, {
+        "URLName": "Newcastle United",
+        "URL": "https://fbref.com/en/squads/b2b47a98/Newcastle-United-Stats"
+    }, {
+        "URLName": "Nottingham Forest",
+        "URL": "https://fbref.com/en/squads/e4a775cb/Nottingham-Forest-Stats"
+    }, {
+        "URLName": "Southampton",
+        "URL": "https://fbref.com/en/squads/33c895d4/Southampton-Stats"
+    }, {
+        "URLName": "Tottenham Hotspur",
+        "URL": "https://fbref.com/en/squads/361ca564/Tottenham-Hotspur-Stats"
+    }, {
+        "URLName": "West Ham United",
+        "URL": "https://fbref.com/en/squads/7c21e445/West-Ham-United-Stats"
+    }, {
+        "URLName": "Wolves", 
+        "URL": "https://fbref.com/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats"
+    }
+]
